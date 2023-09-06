@@ -37,7 +37,7 @@ Various short courses via codecademy such as Vue and game development using phas
 
 
 
-## 🗣️Let's connect! 🗣️💬
+## 🗣️Let's connect! 🗣️
 I'd love to connect with other developers and tech career switchers over on <a href="https://www.linkedin.com/in/kellyh83/" target="blank">linked in</a>
 
 <!--
