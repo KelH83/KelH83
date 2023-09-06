@@ -1,8 +1,9 @@
-# Hello, I'm Kelly 
+# Hello, I'm Kelly 👋🏽👩🏽‍💻
 
 <img src="https://github.com/KelH83/KelH83/blob/main/githubprofilebanner.png" alt="banner that says Kelly Howes software developer and disability advocate" />
 I am currently re-training to become a full-stack software developer. I have trained to a good standard in basic web development - HTML, CSS and Javascript as well as touched on bootstrap and Python. I am working my way through the full-stack pathway on Codecademy as well as undertaking multiple coding courses with Code First Girls and Udemy.
 
+## Let's connect! 🗣️💬
 I'd love to connect with other developers and tech career switchers over on <a href="https://www.linkedin.com/in/kellyh83/" target="blank">linked in</a>
 
 <!--
