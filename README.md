@@ -14,7 +14,7 @@ I love to game, if I'm not coding then I'm gaming, I love all types of games fro
 I love animals and currently have 2 dogs, 2 cats and 2 snakes. Dog walking is great exercise but I always seem to have my aha moments then, stuck on a tricky bit of code, 9 times out of 10 the solution usually comes to me when I'm 2 miles from the house and can't test it out!
 
 ## 💻My Stack💻
-<img src="https://github.com/KelH83/KelH83/blob/main/techstack.png" alt="logos for html,css,js,bootstrap,python and vs" width="300px" height="200px"/>
+<img src="https://github.com/KelH83/KelH83/blob/main/techstack.png" alt="logos for html,css,js,bootstrap,python and vs" width="400px" height="200px"/>
 
 
 ## 📝I'm currently Learning📝
@@ -23,9 +23,11 @@ Python via London App Brewery/Udemy<br>
 Various short courses via codecademy & code first girls
 
 ## 🗃️My latest Projects🗃️
-<b>Code first girls javascript challenge</b> - Multi page website to tackle the <a href="https://kelh83.github.io/CostOfLiving/" target="blank">cost of living crisis</a><br>
+<b>Code first girls coding conundrums challenge</b> - Another multi-page <a href="https://kelh83.github.io/CFGcodingConundrums/" target="blank">website</a>, showcasing my solutions to 5 coding challenges using real-world examples of how you would apply each solution. I was selected as a top 3 finalist out of 120 for this challenge<br>
 <br>
-<b>Code first girls javascript course</b> - Multi page <a href="https://kelh83.github.io/CrunchyFriedGreens/" target="blank">restaurant website</a> including working cart, restaurant <a href="https://kelh83.github.io/DelEat/" target="blank">delivery app</a> landing page, <a href="https://kelh83.github.io/ringOriches/" target="blank">game site</a> and a site to <a href="https://kelh83.github.io/globalspeak/" target="blank">teach languages</a><br>
+<b>Code first girls javascript challenge</b> - Multi-page website to tackle the <a href="https://kelh83.github.io/CostOfLiving/" target="blank">cost of living crisis</a> I was selected as a top 3 finalist out of 99 for this challenge<br>
+<br>
+<b>Code first girls javascript course</b> - Multi-page <a href="https://kelh83.github.io/CrunchyFriedGreens/" target="blank">restaurant website</a> including working cart, restaurant <a href="https://kelh83.github.io/DelEat/" target="blank">delivery app</a> landing page, <a href="https://kelh83.github.io/ringOriches/" target="blank">game site</a> and a site to <a href="https://kelh83.github.io/globalspeak/" target="blank">teach languages</a><br>
 <br>
 <b>Code first girls intro to coding challenge</b> - 5 coding challenges to solve using python<br>
 <br>
