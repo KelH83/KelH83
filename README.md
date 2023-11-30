@@ -1,6 +1,6 @@
 # Hello, I'm Kelly 👋🏽👩🏽‍💻
 
-<img src="https://github.com/KelH83/KelH83/blob/main/githubprofilebanner.png" alt="banner that says Kelly Howes software developer and disability advocate" />
+<img src="https://github.com/KelH83/KelH83/blob/main/githubprofilebanner.png" alt="banner that says Kelly Howes software developer and disability advocate" height="400"  />
 
 ## ❓About Me❓
 I have a strong ambition to make the switch to tech, I have a curious mindset, a willingness to learn, adaptability, and the ability to embrace challenges as opportunities for growth. So far I have learned HTML, CSS, Javascript, Bootstrap, PostgreSQL, GIT and Github. I have touched upon JQuery, Python, Node and React. I am continuously improving and adding to my skill base via online courses and coding challenges. I have been very fortunate to place in the final 3 in some of the code first girls challenges both of these utilising some of my strengths, namely creativity, thinking outside of the box and my ability to hyperfocus for extended periods.
