@@ -27,7 +27,7 @@ Various short courses via codecademy & code first girls
 <br><br>
 <b>Code first girls javascript challenge</b> - Multi-page website to tackle the <a href="https://kelh83.github.io/CostOfLiving/" target="blank">cost of living crisis</a> I was selected as a top 3 finalist out of 99 for this challenge <b>#html #css #bootstrap #javascript</b><br>
 <br><br>
-<b>Code first girls javascript course</b> - Multi-page <a href="https://kelh83.github.io/CrunchyFriedGreens/" target="blank">restaurant website</a> including working cart, restaurant <a href="https://kelh83.github.io/DelEat/" target="blank">delivery app</a> landing page, <a href="https://kelh83.github.io/ringOriches/" target="blank">game site</a> and a site to <a href="https://kelh83.github.io/globalspeak/" target="blank">teach languages</a> <b>#html #css #bootstrap #javascript</b><br>
+<b>Code first girls javascript course</b> - Multi-page <a href="https://kelh83.github.io/CrunchyFriedGreens/" target="blank">restaurant website</a> including working cart, restaurant <a href="https://kelh83.github.io/DelEat/" target="blank">delivery app</a> landing page, <a href="https://kelh83.github.io/ringOriches/" target="blank">game site</a> and a site to <a href="https://kelh83.github.io/globalspeak/" target="blank">teach languages</a> <b>#html #css #javascript #Json</b><br>
 <br><br>
 <b>London App Brewery/Udemy</b> - <a href="https://kelh83.github.io/siivu-resort/" target="blank">Holiday resort</a> site <b>#html #css</b><br>
 <br><br>
