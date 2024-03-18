@@ -26,17 +26,17 @@ I'm also a frequent research participant, helping medical professionals understa
 React on the Northcoders software engineering bootcamp
 
 ## 🗃️My latest Projects🗃️
+<b>Northcoders frontend solo project</b> - This is a mock <a href="https://github.com/KelH83/nc_news" target="blank">News web application</a>. It allows users to browse news articles, view individual articles, vote on articles, post comments, delete comments, and vote on those comments. It connects with the backend project above to create a seamless news website, <b>#React #React Bootstrap #Node.js #Vite #Axios #HTML #CSS #JavaScript</b><br>
+<br><br>
+
+<b>Northcoders backend solo project</b> - The <a href="https://github.com/KelH83/backend-project-nc_news" target="blank">NorthCoders News API</a> serves as a backend system allowing users to retrieve and manipulate data through HTTP requests. With multiple endpoints catering to different data types, developers can integrate this API into their applications seamlessly. <b>#javascript #node #express #postgreSQL #Jest</b><br>
+<br><br>
+
 <b>Code first girls coding conundrums challenge</b> - Another multi-page <a href="https://kelh83.github.io/CFGcodingConundrums/" target="blank">website</a>, showcasing my solutions to 5 coding challenges using real-world examples of how you would apply each solution. I was selected as a top 3 finalist out of 120 for this challenge <b>#html #css #bootstrap #javascript</b><br>
 <br><br>
 <b>Code first girls javascript challenge</b> - Multi-page website to tackle the <a href="https://kelh83.github.io/CostOfLiving/" target="blank">cost of living crisis</a> I was selected as a top 3 finalist out of 99 for this challenge <b>#html #css #bootstrap #javascript</b><br>
 <br><br>
 <b>Code first girls javascript course</b> - Multi-page <a href="https://kelh83.github.io/CrunchyFriedGreens/" target="blank">restaurant website</a> including working cart, restaurant <a href="https://kelh83.github.io/DelEat/" target="blank">delivery app</a> landing page, <a href="https://kelh83.github.io/ringOriches/" target="blank">game site</a> and a site to <a href="https://kelh83.github.io/globalspeak/" target="blank">teach languages</a> <b>#html #css #javascript #Json</b><br>
-<br><br>
-<b>London App Brewery/Udemy</b> - <a href="https://kelh83.github.io/siivu-resort/" target="blank">Holiday resort</a> site <b>#html #css</b><br>
-<br><br>
-<b>London App Brewery/Udemy</b> - <a href="https://kelh83.github.io/tindog/" target="blank">Tindog</a>: Tinder but for dogs site <b>#html #css #bootstrap</b>
-
-
 
 
 ## 🗣️Let's connect! 🗣️
