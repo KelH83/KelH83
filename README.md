@@ -3,24 +3,27 @@
 <img src="https://github.com/KelH83/KelH83/blob/main/githubprofilebanner.png" alt="banner that says Kelly Howes software developer and disability advocate" height="400"  />
 
 ## ❓About Me❓
-I have a strong ambition to make the switch to tech, I have a curious mindset, a willingness to learn, adaptability, and the ability to embrace challenges as opportunities for growth. So far I have learned HTML, CSS, Javascript, Bootstrap, PostgreSQL, GIT and Github. I have touched upon JQuery, Python, Node and React. I am continuously improving and adding to my skill base via online courses and coding challenges. I have been very fortunate to place in the final 3 in some of the code first girls challenges both of these utilising some of my strengths, namely creativity, thinking outside of the box and my ability to hyperfocus for extended periods.
+As I embark on transitioning into the tech industry, I bring a diverse skill set spanning HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Git, GitHub, Bootstrap, Jest, Express.js, Axios, Vite, Wave, and API development. With a lifelong passion for technology and web design deeply ingrained in my upbringing, I am eager to pursue my first role in the tech world.
+
+From an early age, I shared a bond with technology, helping my dad build desktop computers and delving into the intricacies of hardware and software. This early exposure ignited a fervent interest in problem-solving and innovation, laying the foundation for my lifelong interest in tech and software development.
+
+Proficient in frontend technologies such as HTML, CSS, and JavaScript, I possess hands-on experience crafting intuitive user interfaces and dynamic web applications using React. With a solid understanding of backend development, I excel in leveraging Node.js and Express.js to build robust APIs, enabling seamless communication between frontend and backend systems.
+
+Additionally, I ensure efficient data storage and retrieval mechanisms using PostgreSQL, my knowledge in version control with Git and GitHub enables effective collaboration within Agile methodologies, delivering high-quality software products.
+
+Utilizing Bootstrap for responsive design, Jest for comprehensive unit testing, and Axios for handling HTTP requests, I prioritize code integrity and optimal performance in my projects. My dedication to accessibility is evident in my utilization of Wave,Axe and Lighthouse for building inclusive web applications.
 <hr>
 I'm a disability advocate, I myself am disabled (neurodiverse) and so is my daughter and many family members. Creating a better world for the next generation of neurodiverse people is something I feel strongly about. I volunteer for a local charity, helping parents navigate their way through various systems that are not geared up for disabled children (schools, hospitals, activities etc). I also have regular meetings with local government groups, NHS groups, mental health departments/charities etc to try and help them make things better for disabled people (particularly children). <br>
 <br>
 I'm also a frequent research participant, helping medical professionals understand more about neurodiversity and enabling them to create better screening tools/assessments and offer better levels of help.
-<hr>
-I love to game, if I'm not coding then I'm gaming, I love all types of games from Gears of war and Halo to Mario and the Sims. <br>
-<br>
-I love animals and currently have 2 dogs, 2 cats and 2 snakes. Dog walking is great exercise but I always seem to have my aha moments then, stuck on a tricky bit of code, 9 times out of 10 the solution usually comes to me when I'm 2 miles from the house and can't test it out!
+
 
 ## 💻My Stack💻
 <img src="https://github.com/KelH83/KelH83/blob/main/techstack.png" alt="logos for html,css,js,bootstrap,python and vs" width="400px" height="200px"/>
 
 
 ## 📝I'm currently Learning📝
-Typescript via Udemy<br>
-Python via London App Brewery/Udemy<br>
-Various short courses via codecademy & code first girls
+React on the Northcoders software engineering bootcamp
 
 ## 🗃️My latest Projects🗃️
 <b>Code first girls coding conundrums challenge</b> - Another multi-page <a href="https://kelh83.github.io/CFGcodingConundrums/" target="blank">website</a>, showcasing my solutions to 5 coding challenges using real-world examples of how you would apply each solution. I was selected as a top 3 finalist out of 120 for this challenge <b>#html #css #bootstrap #javascript</b><br>
