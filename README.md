@@ -19,7 +19,7 @@ I'm also a frequent research participant, helping medical professionals understa
 
 
 ## 💻My Stack💻
-<img src="https://github.com/KelH83/KelH83/blob/main/techstack.png" alt="logos for html,css,js,bootstrap,python and vs" width="400px" height="200px"/>
+<img src="https://github.com/KelH83/KelH83/blob/main/techstacklogos.png" alt="various logos for the tech mentioned in the about me" width="500px" height="300px"/>
 
 
 ## 📝I'm currently Learning📝
