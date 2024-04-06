@@ -3,13 +3,13 @@
 <img src="https://github.com/KelH83/KelH83/blob/main/githubprofilebanner.png" alt="banner that says Kelly Howes software developer and disability advocate" height="400"  />
 
 ## ❓About Me❓
-As I embark on transitioning into the tech industry, I bring a diverse skill set spanning HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Git, GitHub, Bootstrap, Jest, Express.js, Axios, Vite, Wave, and API development. With a lifelong passion for technology and web design deeply ingrained in my upbringing, I am eager to pursue my first role in the tech world.
+As I embark on transitioning into the tech industry, I bring a diverse skill set spanning HTML, CSS, JavaScript, React, React Native, Node.js, PostgreSQL, Firebase, Git, GitHub, Bootstrap, Jest, Express.js, Axios, Expo, Vite, Wave, and API development. With a lifelong passion for technology and web design deeply ingrained in my upbringing, I am eager to pursue my first role in the tech world.
 
 From an early age, I shared a bond with technology, helping my dad build desktop computers and delving into the intricacies of hardware and software. This early exposure ignited a fervent interest in problem-solving and innovation, laying the foundation for my lifelong interest in tech and software development.
 
-Proficient in frontend technologies such as HTML, CSS, and JavaScript, I possess hands-on experience crafting intuitive user interfaces and dynamic web applications using React. With a solid understanding of backend development, I excel in leveraging Node.js and Express.js to build robust APIs, enabling seamless communication between frontend and backend systems.
+Proficient in frontend technologies such as HTML, CSS, and JavaScript, I possess hands-on experience crafting intuitive user interfaces and dynamic web applications using React as well as mobile applications using React Native and Expo. With a solid understanding of backend development, I excel in leveraging Node.js and Express.js to build robust APIs, enabling seamless communication between frontend and backend systems.
 
-Additionally, I ensure efficient data storage and retrieval mechanisms using PostgreSQL, my knowledge in version control with Git and GitHub enables effective collaboration within Agile methodologies, delivering high-quality software products.
+Additionally, I ensure efficient data storage and retrieval mechanisms using PostgreSQL, as well as experience using Firebase as a database, authentication and storage facility. My knowledge in version control with Git and GitHub enables effective collaboration within Agile methodologies, delivering high-quality software products.
 
 Utilizing Bootstrap for responsive design, Jest for comprehensive unit testing, and Axios for handling HTTP requests, I prioritize code integrity and optimal performance in my projects. My dedication to accessibility is evident in my utilization of Wave,Axe and Lighthouse for building inclusive web applications.
 <hr>
@@ -19,13 +19,13 @@ I'm also a frequent research participant, helping medical professionals understa
 
 
 ## 💻My Stack💻
-<img src="https://github.com/KelH83/KelH83/blob/main/techstacklogos.png" alt="various logos for the tech mentioned in the about me" width="500px" height="300px"/>
+<img src="https://github.com/KelH83/KelH83/blob/main/TechStackNEW.png" alt="various logos for the tech mentioned in the about me" width="550px" height="300px"/>
 
-
-## 📝I'm currently Learning📝
-React on the Northcoders software engineering bootcamp
 
 ## 🗃️My latest Projects🗃️
+<b>Northcoders full-stack group project</b> - In just 10 days my team and I taught ourselves how to use new tech to build a full-stack application. As a group we decided to build a travel logging mobile application  <a href="https://github.com/Koalaphant/TravelJournal" target="blank">Travelog</a> is a nifty travel companion for jotting down memories. It enables users to keep a journal of their travels, incorporating map data(getting users current location and pinning it on their home screen map with the journal entry for that day), the ability to take and upload photos alongside the journal entry itself as well as a rating system.<b>#React native #Expo #Node.js #Firebase #JavaScript</b><br>
+<br><br>
+
 <b>Northcoders frontend solo project</b> - This is a mock <a href="https://github.com/KelH83/nc_news" target="blank">News web application</a>. It allows users to browse news articles, view individual articles, vote on articles, post comments, delete comments, and vote on those comments. It connects with the backend project above to create a seamless news website, <b>#React #React Bootstrap #Node.js #Vite #Axios #HTML #CSS #JavaScript</b><br>
 <br><br>
 
